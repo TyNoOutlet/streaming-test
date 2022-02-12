@@ -3,6 +3,6 @@
     #EXT-X-MEDIA-SEQUENCE:0
     #EXT-X-ALLOW-CACHE:NO
     #EXT-X-TARGETDURATION:11
-    #EXTINF:7.99346,
-    Project-Beat.wav
+    #EXTINF:8.05,
+    FirstTestTS.ts
 #EXT-X-ENDLIST
