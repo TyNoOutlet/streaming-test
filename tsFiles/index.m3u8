@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXT-X-START:TIME-OFFSET=0.1
-
 quest1.ts
 quest2.ts
 quest3.ts
